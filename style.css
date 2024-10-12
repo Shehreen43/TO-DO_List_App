@@ -85,6 +85,7 @@ form {
     background-color: var(--accent-color);
     padding: 15px 30px;
     border: none;
+     outline: none;
     border-radius: 1000px;
     font: inherit;
     font-weight: 600;
